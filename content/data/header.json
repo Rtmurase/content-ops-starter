@@ -50,7 +50,8 @@
             "icon": "instagram",
             "iconPosition": "right",
             "style": "secondary",
-            "elementId": ""
+            "elementId": "",
+            "label": "Instagram"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
