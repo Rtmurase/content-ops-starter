@@ -109,7 +109,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - type: PricingPlan
-        title: Developers
+        title: Promotional 30 min reading
         price: Free
         details: No credit card required
         description: >-
