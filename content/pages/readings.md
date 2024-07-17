@@ -111,7 +111,7 @@ sections:
       - type: PricingPlan
         title: Promotional reading
         price: Los Angeles
-        details: No credit card required
+        details: $50
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
