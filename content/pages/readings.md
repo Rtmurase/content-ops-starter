@@ -143,7 +143,7 @@ sections:
       - type: PricingPlan
         title: Advanced transit reading
         price: Dubai
-        details: 90min / $175
+        details: 90 min / $175
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
