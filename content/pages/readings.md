@@ -109,7 +109,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - type: PricingPlan
-        title: Promotional 30 min reading
+        title: Promotional reading
         price: Los Angeles
         details: No credit card required
         description: >-
