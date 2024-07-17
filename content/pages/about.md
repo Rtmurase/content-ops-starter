@@ -1,6 +1,6 @@
 ---
 title: About
-slug: careers
+slug: about
 sections:
   - title:
       text: A team that works closely together
