@@ -75,7 +75,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Paris
+      - title: Relationship Reading
         price: Relationship
         details: per month
         description: >-
