@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Where do you wanna go?
     plans:
-      - title: Returning client reading
+      - title: Basic chart analysis
         price: Tokyo
         details: No credit card required
         description: >-
