@@ -3,7 +3,7 @@ title: Readings
 slug: readings
 sections:
   - title:
-      text: Flexible Pricing
+      text: Destinations
       color: text-dark
       styles:
         self:
