@@ -43,7 +43,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Career
+      - title: Basic chart analysis
         price: $99
         details: per month
         description: >-
