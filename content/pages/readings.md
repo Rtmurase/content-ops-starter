@@ -111,7 +111,7 @@ sections:
       - type: PricingPlan
         title: Promotional reading
         price: Los Angeles
-        details: $50
+        details: '30'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
