@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Where do you wanna go?
     plans:
-      - title: Tokyo
+      - title: Returning Client Reading
         price: Tokyo
         details: No credit card required
         description: >-
