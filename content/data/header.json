@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -9,7 +8,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/Untitled-4@0.1x@.1.png"
     },
     "primaryLinks": [
         {
@@ -50,10 +50,12 @@
             "icon": "instagram",
             "iconPosition": "right",
             "style": "secondary",
-            "elementId": ""
+            "elementId": "",
+            "label": ""
         }
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "TheCosmicPolitan"
 }
