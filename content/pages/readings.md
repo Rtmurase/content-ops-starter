@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Paris
-        price: Custom
+        price: Relationship
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
