@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Basic chart analysis
-        price: $99
+        price: New York
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
