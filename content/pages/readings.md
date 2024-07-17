@@ -12,7 +12,7 @@ sections:
     subtitle: Where do you wanna go?
     plans:
       - title: Developers
-        price: Free
+        price: Tokyo
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
