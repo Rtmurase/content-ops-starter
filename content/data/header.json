@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Readings",
-            "url": "/pricing",
+            "url": "/reading",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
