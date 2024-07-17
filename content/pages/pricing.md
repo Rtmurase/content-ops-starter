@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Readings
 slug: pricing
 sections:
   - title:
