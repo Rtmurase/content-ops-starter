@@ -75,7 +75,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Relationship Reading
+      - title: Synastry Reading
         price: Paris
         details: per month
         description: >-
