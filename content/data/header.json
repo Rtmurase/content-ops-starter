@@ -41,7 +41,18 @@
             "elementId": ""
         }
     ],
-    "secondaryLinks": [],
+    "secondaryLinks": [
+        {
+            "type": "Link",
+            "altText": "",
+            "url": "https://instagram.com/thecosmicpolitan",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
