@@ -43,7 +43,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Basic chart analysis
+      - title: Returning client reading
         price: New York
         details: per month
         description: >-
