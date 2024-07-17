@@ -1,6 +1,6 @@
 ---
 title: Readings
-slug: pricing
+slug: readings
 sections:
   - title:
       text: Flexible Pricing
