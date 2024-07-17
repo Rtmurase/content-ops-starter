@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Basic chart analysis
         price: Tokyo
-        details: No credit card required
+        details: 60 min / $100
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
