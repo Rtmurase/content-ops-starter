@@ -24,6 +24,16 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /aboot
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
