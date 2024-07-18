@@ -1,6 +1,6 @@
 ---
 title: Aboot
-slug: about
+slug: aboot
 sections:
   - title:
       text: A team that works closely together
