@@ -4,8 +4,8 @@
     "neutral": "#967BB633",
     "neutralAlt": "#967BB680",
     "primary": "#003B36",
-    "fontBody": "serif",
-    "fontHeadlines": "sans",
+    "fontBody": "lora",
+    "fontHeadlines": "alice",
     "h1": {
         "size": "6xl",
         "weight": "normal",
