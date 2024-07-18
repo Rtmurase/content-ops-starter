@@ -115,6 +115,14 @@ export const ThemeStyle: Model = {
                 {
                     label: 'Serif',
                     value: 'serif'
+                },
+                {
+                    label: 'Alice',
+                    value: 'alice'
+                },
+                {
+                    label: 'Lora',
+                    value: 'lora'
                 }
             ],
             group: 'text-styles'
