@@ -372,16 +372,7 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
-        actions:
-          - type: Button
-            label: Learn More
-            altText: ''
-            url: /readings
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
+        actions: []
         colors: bg-dark-fg-light
         styles:
           self:
