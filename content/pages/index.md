@@ -186,9 +186,7 @@ sections:
     title: null
     subtitle: Take a journey with me
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: Paris
         tagline: Paris
         subtitle: 'Maria Walters, Company'
         text: >-
