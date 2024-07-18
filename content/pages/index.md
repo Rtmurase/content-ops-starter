@@ -187,7 +187,7 @@ sections:
     subtitle: Take a journey with me
     items:
       - title: Paris
-        tagline: Paris
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
