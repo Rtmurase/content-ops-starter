@@ -190,8 +190,6 @@ sections:
         tagline: ''
         subtitle: Synergy Reading
         text: |+
-          A relationship compatibility reading includes:
-
           *   An analysis of the compatibility between you and your partner
 
           *   Insights into the strengths and challenges of your relationship
