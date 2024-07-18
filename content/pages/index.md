@@ -189,10 +189,15 @@ sections:
       - title: Paris
         tagline: ''
         subtitle: Synergy Reading
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          A relationship compatibility reading includes:
+
+          *   An analysis of the compatibility between you and your partner
+
+          *   Insights into the strengths and challenges of your relationship
+
+          *   Tips for improving communication and understanding
+
         image:
           url: /images/Paris.png
           altText: Maria Walters
