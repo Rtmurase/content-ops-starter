@@ -24,29 +24,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Welcome to TheCosmicPolitan
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Navigating life through the stars
-    text: >
-      At TheCosmicPolitan, our mission is to provide personalized astrological
-      insights that empower individuals to navigate their lives with confidence
-      and clarity. We believe in the transformative power of understanding one's
-      cosmic blueprint and aim to offer guidance that is both insightful and
-      practical.
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
