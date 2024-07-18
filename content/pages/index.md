@@ -26,7 +26,7 @@ sections:
     type: GenericSection
     actions:
       - type: Button
-        label: Get started
+        label: Learn More
         altText: ''
         url: /aboot
         showIcon: false
