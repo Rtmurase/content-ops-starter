@@ -10,11 +10,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Navigating life through the stars
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      At TheCosmicPolitan, our mission is to provide personalized astrological
+      insights that empower individuals to navigate their lives with confidence
+      and clarity. We believe in the transformative power of understanding one's
+      cosmic blueprint and aim to offer guidance that is both insightful and
+      practical.
     colors: bg-light-fg-dark
     styles:
       self:
