@@ -23,7 +23,7 @@
         {
             "label": "Aboot",
             "altText": "About page",
-            "url": "/about",
+            "url": "/aboot",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
