@@ -534,7 +534,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Welcome to TheCosmicPolitan
       color: text-dark
       styles:
         self:
