@@ -137,7 +137,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/nycTrans.png
-          altText: Paris
+          altText: nyc
           styles:
             self:
               borderRadius: full
