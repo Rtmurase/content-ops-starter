@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Where do you want to go?
     plans:
       - type: PricingPlan
         title: Developers
