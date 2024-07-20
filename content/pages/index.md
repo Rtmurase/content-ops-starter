@@ -57,7 +57,7 @@ sections:
 
         image:
           url: /images/parisTrans.png
-          altText: Maria Walters
+          altText: Paris
           styles:
             self:
               borderRadius: full
