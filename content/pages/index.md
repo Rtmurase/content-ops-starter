@@ -10,12 +10,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Navigating life through the stars
-    text: >
-      At TheCosmicPolitan, our mission is to provide personalized astrological
-      insights that empower individuals to navigate their lives with confidence
-      and clarity. We believe in the transformative power of understanding one's
-      cosmic blueprint and aim to offer guidance that is both insightful and
-      practical.
+    text: "Welcome to\_**TheCosmicPolitan**, where the stars align to illuminate your path. Our mission is to offer insights that help you resonate with your true self and the universe. Dive into the depths of astrology and emerge with newfound clarity and peace\n"
     colors: bg-light-fg-dark
     styles:
       self:
