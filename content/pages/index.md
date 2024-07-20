@@ -277,8 +277,9 @@ sections:
         textAlign: center
 seo:
   metaTitle: TheCosmicPolitan
-  metaDescription: ''
+  metaDescription: TheCosmicPolitan
   socialImage: /images/Untitled (1)-cropped (1).svg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
