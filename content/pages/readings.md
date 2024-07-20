@@ -139,6 +139,38 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+      - type: PricingPlan
+        title: Basic Chart Analysis
+        price: Tokyo
+        details: 60 min / $100
+        description: >
+          A Basic Chart Analysis is a foundational reading in astrology that
+          interprets your birth chart—a celestial snapshot of the sky at the
+          moment of your birth. It's a personalized map that reveals your unique
+          astrological DNA, including your strengths, challenges, and potential
+          life path.
+        features: []
+        image:
+          type: ImageBlock
+          url: /images/tokyoTrans.png
+          altText: Pricing plan 1
+          styles:
+            self:
+              padding:
+                - pl-3
+                - pt-3
+                - pr-3
+                - pb-3
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
