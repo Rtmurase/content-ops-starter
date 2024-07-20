@@ -1,0 +1,73 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "carousel",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Readings"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Paris",
+                "tagline": "",
+                "subtitle": "Synergy Reading",
+                "text": "*   An analysis of the compatibility between you and your partner\n\n*   Insights into the strengths and challenges of your relationship\n\n*   Tips for improving communication and understanding\n\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/parisTrans.png",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Paris",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "full",
+                            "padding": [
+                                "pt-3",
+                                "pl-3",
+                                "pb-3",
+                                "pr-3"
+                            ]
+                        }
+                    }
+                },
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Learn more",
+                        "altText": "",
+                        "url": "/readings",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": ""
+                    }
+                ],
+                "elementId": null,
+                "colors": "bg-neutral-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-9",
+                            "pb-9",
+                            "pl-9",
+                            "pr-9"
+                        ],
+                        "textAlign": "left",
+                        "borderRadius": "large",
+                        "flexDirection": "row",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-carousel-8586.png"
+        }
+    ]
+}
