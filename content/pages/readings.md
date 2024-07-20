@@ -154,7 +154,7 @@ sections:
         padding:
           - pt-3
           - pl-0
-          - pb-0
+          - pb-3
           - pr-0
         justifyContent: center
       subtitle:
