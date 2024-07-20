@@ -204,7 +204,7 @@ sections:
         styles:
           self:
             flexDirection: row
-        tagline: Basic chart analysis
+        tagline: 'Basic Chart Analysis: Unveiling Your Cosmic Blueprint'
         text: >+
           A Basic Chart Analysis is a foundational reading in astrology that
           interprets your birth chart—a celestial snapshot of the sky at the
