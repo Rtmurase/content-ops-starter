@@ -123,6 +123,51 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
+      - type: FeaturedItem
+        title: New York
+        tagline: ''
+        subtitle: Synergy Reading
+        text: |+
+          *   An analysis of the compatibility between you and your partner
+
+          *   Insights into the strengths and challenges of your relationship
+
+          *   Tips for improving communication and understanding
+
+        image:
+          type: ImageBlock
+          url: /images/parisTrans.png
+          altText: Paris
+          styles:
+            self:
+              borderRadius: full
+              padding:
+                - pt-3
+                - pl-3
+                - pb-3
+                - pr-3
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /readings
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
     elementId: null
     variant: next-prev-nav
     colors: bg-light-fg-dark
