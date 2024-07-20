@@ -23,7 +23,6 @@ sections:
           astrological DNA, including your strengths, challenges, and potential
           life path.
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
