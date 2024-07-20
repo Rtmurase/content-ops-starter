@@ -8,10 +8,13 @@ sections:
       text: Contact Us
       color: text-dark
     subtitle: ''
-    text: |+
+    text: >+
       *   **email:** <thecosmicpolitan@gmail.com>
 
-      *   **instagram:** @thecosmicpolitan
+
+      *   **instagram:**
+      [@thecosmicpolitan](https://instagram.com/thecosmicpolitan)
+
 
       *   or fill out the form below
 
