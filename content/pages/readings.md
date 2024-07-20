@@ -46,7 +46,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Returning Client Reading
-        price: New York City
+        price: New York
         details: 45 min / $75
         description: >
           As a returning client, you’ve already taken the first steps on your
@@ -98,6 +98,70 @@ sections:
                 - pl-3
                 - pb-3
                 - pr-3
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Promotional Reading
+        price: Los Angeles
+        details: 45 min / $50
+        description: >+
+          Looking for astrological guidance but short on time? Our Cosmic Quick
+          Insights offer a speedy yet insightful glimpse into your astrological
+          influences. Perfect for when you need a quick cosmic consultation!
+
+        features: []
+        image:
+          type: ImageBlock
+          url: /images/laTrans.png
+          altText: Pricing plan 1
+          styles:
+            self:
+              padding:
+                - pl-3
+                - pt-3
+                - pr-3
+                - pb-3
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Advanced Transit Reading
+        price: Dubai
+        details: 60 min / $100
+        description: >
+          An Advanced Transit Reading is ideal for those who are familiar with
+          their birth chart and are looking for a more nuanced understanding of
+          the astrological forces at play. Whether you’re navigating a
+          transition, seeking clarity on a situation, or planning for the
+          future, this reading offers valuable insights that align with the
+          cosmic rhythm.
+        features: []
+        image:
+          type: ImageBlock
+          url: /images/tokyoTrans.png
+          altText: Pricing plan 1
+          styles:
+            self:
+              padding:
+                - pl-3
+                - pt-3
+                - pr-3
+                - pb-3
         actions: []
         colors: bg-neutral-fg-dark
         styles:
