@@ -197,7 +197,7 @@ sections:
         subtitle: $117
         image:
           type: ImageBlock
-          url: /images/la.png
+          url: /images/dubaiTrans.png
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
