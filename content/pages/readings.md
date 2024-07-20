@@ -159,6 +159,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
