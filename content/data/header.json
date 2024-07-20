@@ -21,9 +21,9 @@
             "type": "Link"
         },
         {
-            "label": "Aboot",
-            "altText": "Aboot page",
-            "url": "/aboot",
+            "label": "About",
+            "altText": "About page",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
