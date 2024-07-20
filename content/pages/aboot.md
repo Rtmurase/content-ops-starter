@@ -184,7 +184,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/la.png
+          url: /images/Paris.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
