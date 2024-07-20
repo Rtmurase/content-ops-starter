@@ -3,25 +3,19 @@ title: Home
 slug: /
 sections:
   - title:
-      text: Grow your business 10x faster
+      text: Welcome to TheCosmicPolitan
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
+    subtitle: Navigating life through the stars
+    text: >
+      At TheCosmicPolitan, our mission is to provide personalized astrological
+      insights that empower individuals to navigate their lives with confidence
+      and clarity. We believe in the transformative power of understanding one's
+      cosmic blueprint and aim to offer guidance that is both insightful and
+      practical.
     colors: bg-light-fg-dark
     styles:
       self:
@@ -30,6 +24,16 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    actions:
+      - type: Button
+        label: Learn More
+        altText: ''
+        url: /aboot
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -190,25 +194,35 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Take a journey with me
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Paris
+        tagline: ''
+        subtitle: Synergy Reading
+        text: |+
+          *   An analysis of the compatibility between you and your partner
+
+          *   Insights into the strengths and challenges of your relationship
+
+          *   Tips for improving communication and understanding
+
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Paris.png
           altText: Maria Walters
           styles:
             self:
               borderRadius: full
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /readings
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
