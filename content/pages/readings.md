@@ -238,7 +238,7 @@ sections:
       - type: FeaturedItem
         title: Paris
         tagline: "Synastry Reading:\_Discovering the Astrological Harmony Between Souls"
-        subtitle: 60 min / $100
+        subtitle: 90 min / $150
         text: >+
           A Basic Chart Analysis is a foundational reading in astrology that
           interprets your birth chart—a celestial snapshot of the sky at the
