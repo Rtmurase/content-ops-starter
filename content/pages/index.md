@@ -206,7 +206,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
     elementId: null
-    variant: next-prev-nav
+    variant: dots-nav
     colors: bg-light-fg-dark
     styles:
       self:
