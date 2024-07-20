@@ -46,7 +46,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Returning Client Reading
-        price: New York City
+        price: New York
         details: 45 min / $75
         description: >
           As a returning client, you’ve already taken the first steps on your
