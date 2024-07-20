@@ -55,10 +55,6 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    badge:
-      type: Badge
-      label: Contact U
-      color: text-primary
     colors: bg-light-fg-dark
 slug: contact
 isDraft: false
