@@ -213,7 +213,7 @@ sections:
           life path.
 
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: New York City
         subtitle: $117
         image:
           type: ImageBlock
