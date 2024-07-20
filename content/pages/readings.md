@@ -189,7 +189,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Tokyo
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
