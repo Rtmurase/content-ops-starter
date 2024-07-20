@@ -73,7 +73,6 @@ sections:
           energies interact with the other’s, revealing the potential for
           harmony, growth, and challenge in their connection.
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
