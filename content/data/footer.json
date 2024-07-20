@@ -23,7 +23,7 @@
             },
             {
                 "label": "Readings",
-                "url": "/reading",
+                "url": "/readings",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
