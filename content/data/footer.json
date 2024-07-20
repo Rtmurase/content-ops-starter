@@ -29,6 +29,17 @@
                 "style": "secondary",
                 "type": "Link",
                 "altText": "Readings page"
+            },
+            {
+                "type": "Link",
+                "label": "See Tutorials",
+                "altText": "",
+                "url": "/contact",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
