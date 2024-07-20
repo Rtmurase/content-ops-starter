@@ -33,6 +33,7 @@ sections:
                 - pl-3
                 - pt-3
                 - pr-3
+                - pb-3
         actions: []
         colors: bg-neutral-fg-dark
         styles:
