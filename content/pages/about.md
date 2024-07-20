@@ -1,5 +1,5 @@
 ---
-title: Aboot
+title: About
 slug: about
 sections:
   - title:
