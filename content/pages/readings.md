@@ -302,13 +302,13 @@ sections:
         title: Dubai
         tagline: "Advanced Transit Reading:\_Navigating Life’s Celestial Currents"
         subtitle: 90 min / $175
-        text: >+
-          A Basic Chart Analysis is a foundational reading in astrology that
-          interprets your birth chart—a celestial snapshot of the sky at the
-          moment of your birth. It's a personalized map that reveals your unique
-          astrological DNA, including your strengths, challenges, and potential
-          life path.
-
+        text: >
+          An Advanced Transit Reading is ideal for those who are familiar with
+          their birth chart and are looking for a more nuanced understanding of
+          the astrological forces at play. Whether you’re navigating a
+          transition, seeking clarity on a situation, or planning for the
+          future, this reading offers valuable insights that align with the
+          cosmic rhythm.
         image:
           type: ImageBlock
           url: /images/tokyoTrans.png
