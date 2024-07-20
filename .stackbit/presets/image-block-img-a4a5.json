@@ -1,0 +1,36 @@
+{
+    "model": "ImageBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "img",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Readings"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "url": {
+                    "$$ref": "stackbit_asset_id:static:public/images/tokyoTrans.png",
+                    "$$type": "__asset_model"
+                },
+                "altText": "Pricing plan 1",
+                "elementId": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pl-3",
+                            "pt-3",
+                            "pr-3",
+                            "pb-3"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/image-block-img-a4a5.png"
+        }
+    ]
+}
