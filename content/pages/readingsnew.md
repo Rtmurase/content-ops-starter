@@ -1,5 +1,5 @@
 ---
-title: Readings
+title: ReadingsNew
 slug: readingsNew
 sections:
   - type: FeaturedItemsSection
