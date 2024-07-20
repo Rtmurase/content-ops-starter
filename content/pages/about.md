@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Your Travel Guide
+      text: Kirat
       color: text-dark
       styles:
         self:
