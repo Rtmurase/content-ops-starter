@@ -216,7 +216,7 @@ sections:
 seo:
   metaTitle: TheCosmicPolitan
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Untitled (1)-cropped (1).svg
   type: Seo
 type: PageLayout
 ---
