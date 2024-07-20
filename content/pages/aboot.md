@@ -168,6 +168,29 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
+        title: Cotton Knit Throws
+        subtitle: $ 44.99 – $ 90
+        image:
+          type: ImageBlock
+          url: /images/Paris.png
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+        text: >
+          Available in a range of colors and patterns, we make it easy to pick
+          the perfect look for you.
+
+
+          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
+          the real deal (but better)!x
+      - type: FeaturedItem
         title: Faux Fur Throw
         subtitle: $ 88 – $ 176
         text: >+
@@ -211,29 +234,6 @@ sections:
             flexDirection: row-reverse
             justifyContent: center
             borderStyle: dotted
-      - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
-        image:
-          type: ImageBlock
-          url: /images/Paris.png
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
-        text: >
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!x
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
