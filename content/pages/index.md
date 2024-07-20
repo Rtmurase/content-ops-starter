@@ -227,7 +227,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/dubaiTrans.png
-          altText: Paris
+          altText: dubai
           styles:
             self:
               borderRadius: full
