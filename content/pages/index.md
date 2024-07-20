@@ -109,7 +109,16 @@ sections:
                 - pb-3
                 - pr-3
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /readings
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
