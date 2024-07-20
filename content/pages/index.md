@@ -23,7 +23,7 @@ sections:
       - type: Button
         label: Learn More
         altText: ''
-        url: /aboot
+        url: /about
         showIcon: false
         icon: arrowRight
         iconPosition: right
