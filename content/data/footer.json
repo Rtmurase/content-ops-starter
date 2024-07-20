@@ -13,15 +13,6 @@
                 "altText": "About page"
             },
             {
-                "label": "Readings",
-                "url": "/readings",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "altText": "Readings page"
-            },
-            {
                 "type": "Link",
                 "label": "Contact",
                 "altText": "",
