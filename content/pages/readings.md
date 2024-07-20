@@ -110,7 +110,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Promotional Reading
-        price: Tokyo
+        price: Los Angeles
         details: 60 min / $100
         description: >
           A Basic Chart Analysis is a foundational reading in astrology that
