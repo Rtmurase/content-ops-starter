@@ -27,6 +27,10 @@ sections:
           type: ImageBlock
           url: /images/tokyoTrans.png
           altText: Pricing plan 1
+          styles:
+            self:
+              padding:
+                - pl-3
         actions: []
         colors: bg-neutral-fg-dark
         styles:
