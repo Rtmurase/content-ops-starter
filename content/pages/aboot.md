@@ -129,35 +129,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-      - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          An Advanced Transit Reading is ideal for those who are familiar with
-          their birth chart and are looking for a more nuanced understanding of
-          the astrological forces at play. Whether you’re navigating a
-          transition, seeking clarity on a situation, or planning for the
-          future, this reading offers valuable insights that align with the
-          cosmic rhythm.
-        image:
-          type: ImageBlock
-          url: /images/dubaiTrans.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
