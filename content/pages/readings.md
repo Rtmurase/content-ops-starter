@@ -153,7 +153,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/tokyoTrans.png
+          url: /images/dubaiTrans.png
           altText: Pricing plan 1
           styles:
             self:
