@@ -193,7 +193,7 @@ sections:
         subtitle: 60 min / $100
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/tokyoTrans.png
           altText: Cotton Knit Throws
           elementId: ''
           styles:
