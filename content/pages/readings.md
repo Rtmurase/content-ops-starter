@@ -212,33 +212,6 @@ sections:
           astrological DNA, including your strengths, challenges, and potential
           life path.
 
-
-          *   **Zodiac Signs**: Learn how the signs of the Zodiac influence the
-          expression of the planets and color your behavioral patterns.
-
-
-          *   **Houses**: Explore the 12 houses of your chart, each representing
-          different areas of your life, from career to relationships.
-
-
-          *   **Aspects**: Understand the dynamic angles the planets form with
-          one another, which can create harmony or tension in various aspects of
-          your life.
-
-
-          *   **Luminaries**: Gain insights into your core self (Sun sign) and
-          emotional nature (Moon sign) for a deeper understanding of your inner
-          world.
-
-
-          *   **Chart Wheel and Info Sheet**: Receive a visual representation of
-          your chart along with a detailed information sheet for easy reference.
-
-
-          *   **Major and Minor Aspects**: Not just the major aspects, but also
-          the subtle influences of minor aspects are analyzed for a
-          comprehensive view
-
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
