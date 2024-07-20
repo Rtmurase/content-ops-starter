@@ -237,7 +237,7 @@ sections:
           current life’s chapter.
       - type: FeaturedItem
         title: Paris
-        tagline: 'Basic Chart Analysis: Unveiling Your Cosmic Blueprint'
+        tagline: "Synastry Reading:\_Discovering the Astrological Harmony Between Souls"
         subtitle: 60 min / $100
         text: >+
           A Basic Chart Analysis is a foundational reading in astrology that
