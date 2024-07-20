@@ -228,6 +228,7 @@ sections:
         styles:
           self:
             flexDirection: row
+        tagline: Returning client reading
     actions: []
     elementId: ''
     variant: small-list
