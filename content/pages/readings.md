@@ -228,7 +228,7 @@ sections:
         styles:
           self:
             flexDirection: row
-        tagline: 'Returning client reading: Na'
+        tagline: 'Returning client reading: Navigating  your evolving stars'
         text: >
           As a returning client, you’ve already taken the first steps on your
           astrological journey. Now, it’s time to delve deeper into the
