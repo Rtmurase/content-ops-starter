@@ -91,7 +91,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Tokyo
-        tagline: Testimonial 3
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
