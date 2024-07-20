@@ -2,7 +2,19 @@
     "text": "",
     "primaryLinks": {
         "title": "TheCosmicPolitan",
-        "links": [],
+        "links": [
+            {
+                "type": "Link",
+                "label": "See Tutorials",
+                "altText": "",
+                "url": "/contact",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
