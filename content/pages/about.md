@@ -2,50 +2,32 @@
 title: About
 slug: about
 sections:
-  - title:
-      text: A team that works closely together
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Kirat
       color: text-dark
       styles:
         self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+          textAlign: left
+    subtitle: Your travel guide and personal astrologer
+    text: |
+      Hi, I'm a goofball and a boofus
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
-        alignItems: center
-        flexDirection: row-reverse
+        flexDirection: row
         justifyContent: center
-      text:
-        textAlign: center
       subtitle:
-        textAlign: center
-    type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-background.svg
+        textAlign: left
+    media:
+      type: ImageBlock
+      url: /images/avatar6.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
 type: PageLayout
 ---
