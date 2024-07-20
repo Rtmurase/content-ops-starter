@@ -65,7 +65,7 @@ sections:
       - type: PricingPlan
         title: Synastry Reading
         price: Paris
-        details: per month
+        details: 90 min / $150
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
