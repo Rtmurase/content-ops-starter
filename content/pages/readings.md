@@ -248,7 +248,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/tokyoTrans.png
+          url: /images/parisTrans.png
           altText: Cotton Knit Throws
           elementId: ''
           styles:
