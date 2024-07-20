@@ -136,7 +136,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/parisTrans.png
+          url: /images/nycTrans.png
           altText: Paris
           styles:
             self:
