@@ -13,7 +13,7 @@ sections:
     subtitle: Where do you want to go?
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Tokyo
         price: Free
         details: No credit card required
         description: >-
