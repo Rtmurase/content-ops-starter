@@ -260,7 +260,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Los Angeles
-        tagline: 'Promotional Reading:'
+        tagline: "Promotional Reading:\_Personalized Astrological Snapshot"
         subtitle: 60 min / $100
         text: >+
           A Basic Chart Analysis is a foundational reading in astrology that
