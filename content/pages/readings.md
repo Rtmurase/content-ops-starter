@@ -23,7 +23,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/rangle-logo.svg
+          url: /images/tokyo.png
           altText: Pricing plan 1
           type: ImageBlock
         actions:
