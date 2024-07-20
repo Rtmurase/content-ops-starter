@@ -16,9 +16,12 @@ sections:
         title: Basic Chart Analysis
         price: Tokyo
         details: 60 min / $100
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          A Basic Chart Analysis is a foundational reading in astrology that
+          interprets your birth chart—a celestial snapshot of the sky at the
+          moment of your birth. It's a personalized map that reveals your unique
+          astrological DNA, including your strengths, challenges, and potential
+          life path.
         features:
           - Feature one
           - Feature two
