@@ -13,7 +13,7 @@ sections:
     subtitle: Where do you want to go?
     plans:
       - type: PricingPlan
-        title: 'Basic Chart Analysis: Unveiling Your Cosmic Blueprint'
+        title: Basic Chart Analysis
         price: Tokyo
         details: 60 min / $100
         description: >-
