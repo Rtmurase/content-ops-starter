@@ -140,7 +140,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Basic Chart Analysis
+        title: Advanced Transit Reading
         price: Tokyo
         details: 60 min / $100
         description: >
