@@ -182,7 +182,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/laTrans.png
-          altText: Paris
+          altText: la
           styles:
             self:
               borderRadius: full
