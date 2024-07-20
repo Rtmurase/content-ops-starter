@@ -22,7 +22,7 @@
         },
         {
             "label": "About",
-            "altText": "Aboot page",
+            "altText": "About page",
             "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
