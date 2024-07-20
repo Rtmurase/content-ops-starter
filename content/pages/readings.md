@@ -237,6 +237,30 @@ sections:
           current life’s chapter.
       - type: FeaturedItem
         title: Paris
+        tagline: 'Basic Chart Analysis: Unveiling Your Cosmic Blueprint'
+        subtitle: 60 min / $100
+        text: >+
+          A Basic Chart Analysis is a foundational reading in astrology that
+          interprets your birth chart—a celestial snapshot of the sky at the
+          moment of your birth. It's a personalized map that reveals your unique
+          astrological DNA, including your strengths, challenges, and potential
+          life path.
+
+        image:
+          type: ImageBlock
+          url: /images/tokyoTrans.png
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+      - type: FeaturedItem
+        title: Paris
         tagline: "Synastry Reading:\_Discovering the Astrological Harmony Between Souls"
         subtitle: 90 min / $150
         text: >
