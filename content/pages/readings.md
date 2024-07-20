@@ -112,12 +112,11 @@ sections:
         title: Promotional Reading
         price: Los Angeles
         details: 45 min / $50
-        description: >
-          A Basic Chart Analysis is a foundational reading in astrology that
-          interprets your birth chart—a celestial snapshot of the sky at the
-          moment of your birth. It's a personalized map that reveals your unique
-          astrological DNA, including your strengths, challenges, and potential
-          life path.
+        description: >+
+          Looking for astrological guidance but short on time? Our Cosmic Quick
+          Insights offer a speedy yet insightful glimpse into your astrological
+          influences. Perfect for when you need a quick cosmic consultation!
+
         features: []
         image:
           type: ImageBlock
