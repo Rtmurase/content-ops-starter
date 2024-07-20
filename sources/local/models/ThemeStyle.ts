@@ -95,6 +95,14 @@ export const ThemeStyle: Model = {
                 {
                     label: 'Lora',
                     value: 'lora'
+                },
+                {
+                    label: 'Crushed',
+                    value: 'crushed'
+                },
+                {
+                    label: 'Bebas Neue',
+                    value: 'bebasNeue'
                 }
             ],
             group: 'text-styles'
@@ -123,6 +131,14 @@ export const ThemeStyle: Model = {
                 {
                     label: 'Lora',
                     value: 'lora'
+                },
+                {
+                    label: 'Crushed',
+                    value: 'crushed'
+                },
+                {
+                    label: 'Bebas Neue',
+                    value: 'bebasNeue'
                 }
             ],
             group: 'text-styles'
