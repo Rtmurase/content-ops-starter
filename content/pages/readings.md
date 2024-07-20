@@ -258,34 +258,6 @@ sections:
         styles:
           self:
             flexDirection: row
-      - type: FeaturedItem
-        title: Paris
-        tagline: "Synastry Reading:\_Discovering the Astrological Harmony Between Souls"
-        subtitle: 90 min / $150
-        text: >
-          Synastry readings are a fascinating astrological practice that
-          compares two individuals’ birth charts to explore their relational
-          dynamics. It’s like a cosmic dance where each person’s planetary
-          energies interact with the other’s, revealing the potential for
-          harmony, growth, and challenge in their connection.
-        image:
-          type: ImageBlock
-          url: /images/nycTrans.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
     actions: []
     elementId: ''
     variant: small-list
