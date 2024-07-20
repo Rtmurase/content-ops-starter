@@ -214,9 +214,9 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: TheCosmicPolitan
+  metaDescription: ''
+  socialImage: /images/Untitled (1)-cropped (1).svg
   type: Seo
 type: PageLayout
 ---
