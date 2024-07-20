@@ -214,7 +214,7 @@ sections:
 
       - type: FeaturedItem
         title: New York City
-        subtitle: $117
+        subtitle: 45 min / $75
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
