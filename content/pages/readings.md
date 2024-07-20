@@ -66,9 +66,12 @@ sections:
         title: Synastry Reading
         price: Paris
         details: 90 min / $150
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Synastry readings are a fascinating astrological practice that
+          compares two individuals’ birth charts to explore their relational
+          dynamics. It’s like a cosmic dance where each person’s planetary
+          energies interact with the other’s, revealing the potential for
+          harmony, growth, and challenge in their connection.
         features:
           - Feature one
           - Feature two
