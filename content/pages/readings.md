@@ -263,11 +263,27 @@ sections:
         tagline: "Promotional Reading:\_Personalized Astrological Snapshot"
         subtitle: 60 min / $100
         text: >+
-          A Basic Chart Analysis is a foundational reading in astrology that
-          interprets your birth chart—a celestial snapshot of the sky at the
-          moment of your birth. It's a personalized map that reveals your unique
-          astrological DNA, including your strengths, challenges, and potential
-          life path.
+          Looking for astrological guidance but short on time? Our Cosmic Quick
+          Insights offer a speedy yet insightful glimpse into your astrological
+          influences. Perfect for when you need a quick cosmic consultation!
+
+
+          *   Focused Analysis: Tell us what’s on your mind, and we’ll provide a
+          targeted reading on that specific area of life—be it love, career, or
+          personal growth1.
+
+
+          *   Key Transits: We’ll highlight the most significant current
+          planetary transits affecting your chart right now1.
+
+
+          *   Astro Tips: Receive practical astrological tips that you can apply
+          immediately to navigate your day or decision-making process1.
+
+
+          *   Personalized Affirmation: Based on your chart and current
+          astrological climate, we’ll craft a unique affirmation to help you
+          align with positive energies1.
 
         image:
           type: ImageBlock
