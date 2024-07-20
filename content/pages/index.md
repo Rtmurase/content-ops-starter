@@ -3,11 +3,12 @@ title: Home
 slug: /
 sections:
   - title:
-      text: TheCosmicPolitan
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
+          fontWeight: 400
       type: TitleBlock
     subtitle: Navigating life through the stars
     text: "Welcome to\_**TheCosmicPolitan**, where the stars align to illuminate your path. Our mission is to offer insights that help you resonate with your true self and the universe. Dive into the depths of astrology and emerge with newfound clarity and peace\n"
@@ -29,6 +30,17 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: CarouselSection
     title: null
     subtitle: Take a journey with me
@@ -58,38 +70,8 @@ sections:
             showIcon: false
             icon: arrowRight
             iconPosition: right
-            style: secondary
+            style: primary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
