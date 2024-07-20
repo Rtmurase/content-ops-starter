@@ -126,7 +126,7 @@ sections:
       - type: FeaturedItem
         title: New York
         tagline: ''
-        subtitle: Synergy Reading
+        subtitle: Returning Client Reading
         text: |+
           *   An analysis of the compatibility between you and your partner
 
