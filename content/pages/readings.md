@@ -237,7 +237,7 @@ sections:
           current life’s chapter.
       - type: FeaturedItem
         title: Paris
-        tagline: 'Synastry Reading:'
+        tagline: "Synastry Reading:\_Discovering the Astrological Harmony Between Souls"
         subtitle: 90 min / $150
         text: >
           Synastry readings are a fascinating astrological practice that
