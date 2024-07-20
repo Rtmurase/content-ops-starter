@@ -4,15 +4,6 @@
         "title": "TheCosmicPolitan",
         "links": [
             {
-                "label": "Home",
-                "altText": "Home page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "About",
                 "url": "/about",
                 "icon": "arrowRight",
