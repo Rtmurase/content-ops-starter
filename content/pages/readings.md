@@ -190,7 +190,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Tokyo
-        subtitle: $ 44.99 – $ 90
+        subtitle: 60 min / $100
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
