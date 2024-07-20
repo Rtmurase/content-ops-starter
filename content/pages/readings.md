@@ -22,8 +22,7 @@ sections:
           moment of your birth. It's a personalized map that reveals your unique
           astrological DNA, including your strengths, challenges, and potential
           life path.
-        features:
-          - Feature three
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
