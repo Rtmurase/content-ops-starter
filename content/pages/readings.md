@@ -111,7 +111,7 @@ sections:
       - type: PricingPlan
         title: Promotional Reading
         price: Los Angeles
-        details: 60 min / $100
+        details: 45 min / $50
         description: >
           A Basic Chart Analysis is a foundational reading in astrology that
           interprets your birth chart—a celestial snapshot of the sky at the
