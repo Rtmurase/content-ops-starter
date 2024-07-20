@@ -9,13 +9,14 @@ sections:
       color: text-dark
     subtitle: ''
     text: |+
-      Feel free to reach me by:
-
-      *   **email:** thecosmicpolitan\@gmail.com
+      *   **email:** <thecosmicpolitan@gmail.com>
 
       *   **instagram:** @thecosmicpolitan
 
       *   filling out the form below
+
+
+
 
     actions: []
     media:
