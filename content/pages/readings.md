@@ -239,13 +239,12 @@ sections:
         title: Paris
         tagline: "Synastry Reading:\_Discovering the Astrological Harmony Between Souls"
         subtitle: 90 min / $150
-        text: >+
-          A Basic Chart Analysis is a foundational reading in astrology that
-          interprets your birth chart—a celestial snapshot of the sky at the
-          moment of your birth. It's a personalized map that reveals your unique
-          astrological DNA, including your strengths, challenges, and potential
-          life path.
-
+        text: >
+          Synastry readings are a fascinating astrological practice that
+          compares two individuals’ birth charts to explore their relational
+          dynamics. It’s like a cosmic dance where each person’s planetary
+          energies interact with the other’s, revealing the potential for
+          harmony, growth, and challenge in their connection.
         image:
           type: ImageBlock
           url: /images/parisTrans.png
