@@ -47,8 +47,7 @@ sections:
           celestial narrative that is uniquely yours. Our Returning Client
           Readings are designed to reflect your growth and align with your
           current life’s chapter.
-        features:
-          - Feature two
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
