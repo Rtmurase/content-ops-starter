@@ -171,7 +171,7 @@ sections:
       - type: FeaturedItem
         title: Los Angeles
         tagline: ''
-        subtitle: Synergy Reading
+        subtitle: Promotional Reading
         text: |+
           *   An analysis of the compatibility between you and your partner
 
