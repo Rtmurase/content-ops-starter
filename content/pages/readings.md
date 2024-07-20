@@ -13,7 +13,7 @@ sections:
     subtitle: Where do you want to go?
     plans:
       - type: PricingPlan
-        title: ''
+        title: 'Basic Chart Analysis: Unveiling Your Cosmic Blueprint'
         price: Tokyo
         details: No credit card required
         description: >-
