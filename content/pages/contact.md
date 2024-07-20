@@ -16,7 +16,7 @@ sections:
       [@thecosmicpolitan](https://instagram.com/thecosmicpolitan)
 
 
-      *   or fill out the form below
+      *   or fill out the form
 
     actions: []
     media:
