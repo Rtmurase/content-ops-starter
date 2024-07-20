@@ -46,7 +46,7 @@ sections:
     subtitle: Take a journey with me
     items:
       - title: Paris
-        tagline: a
+        tagline: ''
         subtitle: Synergy Reading
         text: |+
           *   An analysis of the compatibility between you and your partner
