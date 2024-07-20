@@ -149,8 +149,13 @@ sections:
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          An Advanced Transit Reading is ideal for those who are familiar with
+          their birth chart and are looking for a more nuanced understanding of
+          the astrological forces at play. Whether you’re navigating a
+          transition, seeking clarity on a situation, or planning for the
+          future, this reading offers valuable insights that align with the
+          cosmic rhythm.
         image:
           type: ImageBlock
           url: /images/dubaiTrans.png
