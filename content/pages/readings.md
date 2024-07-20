@@ -13,7 +13,7 @@ sections:
     subtitle: Where do you want to go?
     plans:
       - type: PricingPlan
-        title: Tokyo
+        title: ''
         price: 60 min / $100
         details: No credit card required
         description: >-
