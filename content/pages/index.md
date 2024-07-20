@@ -99,7 +99,7 @@ sections:
           explicabo.
         image:
           url: /images/tokyoTrans.png
-          altText: Maria Walters
+          altText: ''
           styles:
             self:
               borderRadius: full
