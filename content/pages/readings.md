@@ -229,6 +229,12 @@ sections:
           self:
             flexDirection: row
         tagline: Returning client reading
+        text: >
+          As a returning client, you’ve already taken the first steps on your
+          astrological journey. Now, it’s time to delve deeper into the
+          celestial narrative that is uniquely yours. Our Returning Client
+          Readings are designed to reflect your growth and align with your
+          current life’s chapter.
     actions: []
     elementId: ''
     variant: small-list
