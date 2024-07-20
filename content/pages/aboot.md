@@ -192,42 +192,6 @@ sections:
           the real deal (but better)!xAvailable in a range of colors and
           patterns, we make it easy to pick the perfect look for you.
 
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!x
-
-
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!x
-
-
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!x
-
-
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!x
-
-
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!x
-
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
