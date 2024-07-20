@@ -89,7 +89,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/parisTrans.png
           altText: Pricing plan 3
           styles:
             self:
