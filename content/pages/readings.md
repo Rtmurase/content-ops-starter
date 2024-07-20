@@ -134,7 +134,7 @@ sections:
           cosmic rhythm.
         image:
           type: ImageBlock
-          url: /images/tokyoTrans.png
+          url: /images/dubaiTrans.png
           altText: Cotton Knit Throws
           elementId: ''
           styles:
