@@ -109,7 +109,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Proo
+        title: Promotional Reading
         price: Tokyo
         details: 60 min / $100
         description: >
