@@ -13,10 +13,7 @@ sections:
 
       *   **instagram:** @thecosmicpolitan
 
-      *   filling out the form below
-
-
-
+      *   or fill out the form below
 
     actions: []
     media:
