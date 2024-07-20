@@ -14,7 +14,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Tokyo
-        price: Free
+        price: 60 min / $100
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
