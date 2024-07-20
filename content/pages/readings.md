@@ -48,7 +48,6 @@ sections:
           Readings are designed to reflect your growth and align with your
           current life’s chapter.
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
