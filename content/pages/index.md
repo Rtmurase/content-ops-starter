@@ -216,7 +216,7 @@ sections:
       - type: FeaturedItem
         title: Dubai
         tagline: ''
-        subtitle: Synergy Reading
+        subtitle: Advanced Transit Reading
         text: |+
           *   An analysis of the compatibility between you and your partner
 
