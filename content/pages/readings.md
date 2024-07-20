@@ -239,8 +239,12 @@ sections:
         title: Paris
         tagline: 'Synastry Reading:'
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Synastry readings are a fascinating astrological practice that
+          compares two individuals’ birth charts to explore their relational
+          dynamics. It’s like a cosmic dance where each person’s planetary
+          energies interact with the other’s, revealing the potential for
+          harmony, growth, and challenge in their connection.
         image:
           type: ImageBlock
           url: /images/parisTrans.png
