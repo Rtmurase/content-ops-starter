@@ -141,7 +141,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Advanced Transit Reading
-        price: Tokyo
+        price: Dubai
         details: 60 min / $100
         description: >
           A Basic Chart Analysis is a foundational reading in astrology that
