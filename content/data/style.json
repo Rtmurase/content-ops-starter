@@ -5,7 +5,7 @@
     "neutralAlt": "#967BB680",
     "primary": "#003B36",
     "fontBody": "bebasNeue",
-    "fontHeadlines": "crushed",
+    "fontHeadlines": "bebasNeue",
     "h1": {
         "size": "6xl",
         "weight": "normal",
