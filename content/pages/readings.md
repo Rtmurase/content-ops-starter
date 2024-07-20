@@ -38,7 +38,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: Returning Client Reading
         price: $99
         details: per month
         description: >-
