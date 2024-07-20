@@ -122,7 +122,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/la.png
+          url: /images/laTrans.png
           altText: Pricing plan 1
         actions:
           - type: Button
