@@ -25,8 +25,10 @@ module.exports = {
             fontFamily: {
                 sans: ['Inter', 'sans-serif'],
                 serif: ['Roboto Slab', 'serif'],
-                alice: ['Alice', 'serif'],
-                lora: ['Lora', 'serif']
+                alice: ['Alice', 'sans-serif'],
+                lora: ['Lora', 'sans-serif'],
+                crushed: ['Crushed', 'sans-serif'],
+                bebasNeue: ['Bebas Neue', 'sans-serif']
             },
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'
