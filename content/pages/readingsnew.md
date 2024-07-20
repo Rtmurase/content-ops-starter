@@ -1,6 +1,6 @@
 ---
 title: Readings
-slug: readings
+slug: readingsNew
 sections:
   - type: FeaturedItemsSection
     title:
