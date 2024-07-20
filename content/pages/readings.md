@@ -204,6 +204,7 @@ sections:
         styles:
           self:
             flexDirection: row
+        tagline: Basic chart analysis
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
