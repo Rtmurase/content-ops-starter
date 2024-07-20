@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: TheCosmicPolitan
+      text: The CosmicPolitan
       color: text-dark
       styles:
         self:
