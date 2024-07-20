@@ -247,7 +247,7 @@ sections:
           harmony, growth, and challenge in their connection.
         image:
           type: ImageBlock
-          url: /images/parisTrans.png
+          url: /images/nycTrans.png
           altText: Placeholder text
           styles:
             self:
