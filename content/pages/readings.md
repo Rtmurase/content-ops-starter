@@ -121,7 +121,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/tokyoTrans.png
+          url: /images/laTrans.png
           altText: Pricing plan 1
           styles:
             self:
