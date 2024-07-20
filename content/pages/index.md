@@ -207,7 +207,7 @@ sections:
           *   Tips for improving communication and understanding
 
         image:
-          url: /images/Paris.png
+          url: /images/parisTrans.png
           altText: Maria Walters
           styles:
             self:
