@@ -32,6 +32,7 @@ sections:
               padding:
                 - pl-3
                 - pt-3
+                - pr-3
         actions: []
         colors: bg-neutral-fg-dark
         styles:
