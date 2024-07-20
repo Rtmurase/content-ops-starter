@@ -91,6 +91,13 @@ sections:
           type: ImageBlock
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
+          styles:
+            self:
+              padding:
+                - pt-3
+                - pl-3
+                - pb-3
+                - pr-3
         actions: []
         colors: bg-neutral-fg-dark
         styles:
