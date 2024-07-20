@@ -40,7 +40,7 @@ sections:
       - type: PricingPlan
         title: Returning Client Reading
         price: New York City
-        details: per month
+        details: 45 min / $75
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
