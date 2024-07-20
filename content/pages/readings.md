@@ -300,7 +300,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Dubai
-        tagline: Advanced Transit Reading
+        tagline: "Advanced Transit Reading:\_Navigating Life’s Celestial Currents"
         subtitle: 60 min / $100
         text: >+
           A Basic Chart Analysis is a foundational reading in astrology that
