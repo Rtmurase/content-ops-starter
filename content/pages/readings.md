@@ -72,8 +72,7 @@ sections:
           dynamics. It’s like a cosmic dance where each person’s planetary
           energies interact with the other’s, revealing the potential for
           harmony, growth, and challenge in their connection.
-        features:
-          - Feature five
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
