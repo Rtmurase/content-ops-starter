@@ -57,7 +57,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/nycTrans.png
           altText: Pricing plan 2
           styles:
             self:
