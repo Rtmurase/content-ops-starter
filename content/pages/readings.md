@@ -217,7 +217,7 @@ sections:
         subtitle: 45 min / $75
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/nycTrans.png
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
