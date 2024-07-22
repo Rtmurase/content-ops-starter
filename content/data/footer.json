@@ -39,6 +39,18 @@
     "secondaryLinks": {
         "type": "FooterLinksGroup",
         "title": "Subscribe For updates",
-        "links": []
+        "links": [
+            {
+                "type": "Link",
+                "label": "See Tutorials",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            }
+        ]
     }
 }
