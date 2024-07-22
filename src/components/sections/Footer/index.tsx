@@ -60,6 +60,28 @@ export default function Footer(props) {
                     )}
                     {primaryLinks && <FooterLinksGroup {...primaryLinks} {...(enableAnnotations && { 'data-sb-field-path': 'primaryLinks' })} />}
                     {secondaryLinks && <FooterLinksGroup {...secondaryLinks} {...(enableAnnotations && { 'data-sb-field-path': 'secondaryLinks' })} />}
+                    {<div>
+                        <h1 className="uppercase text-base tracking-wide" {...(props['data-sb-field-path'] && { 'data-sb-field-path': '.title' })}>
+                            {"Subscribe to our Newsletter"}
+                        </h1>
+                        <h3 className="uppercase text-sm tracking-wide" {...(props['data-sb-field-path'] && { 'data-sb-field-path': '.title' })}>
+                            {"New offerings, business and life updates"}
+                        </h3>
+                    </div>}
+                    {<div>
+                        <iframe
+                            src="https://embeds.beehiiv.com/752cd0b3-70d4-4b93-a7bf-b5c0050bbc1f?slim=true"
+                            data-testid="beehiiv-embed"
+                            height="52"
+                            frameBorder="0"
+                            scrolling="no"
+                            style={{
+                                margin: 0,
+                                borderRadius: '0px !important',
+                                backgroundColor: 'transparent'
+                            }}
+                        />
+                    </div>}
                     {socialLinks.length > 0 && (
                         <div className="pb-6">
                             <ul className="flex flex-wrap items-center" {...(enableAnnotations && { 'data-sb-field-path': 'socialLinks' })}>
