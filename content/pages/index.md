@@ -187,12 +187,13 @@ sections:
         title: Los Angeles
         tagline: ''
         subtitle: Promotional Reading
-        text: |+
-          *   An analysis of the compatibility between you and your partner
+        text: >+
+          New to astrology? Start here! Limited time promotional readings
+          available to celebrate our launch. If you're unsure about astrology or
+          wondering if its the right fit for you, you can book some time at a
+          low price to get a taste.
 
-          *   Insights into the strengths and challenges of your relationship
 
-          *   Tips for improving communication and understanding
 
         image:
           type: ImageBlock
