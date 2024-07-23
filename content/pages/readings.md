@@ -112,11 +112,12 @@ sections:
         title: Promotional Reading
         price: Los Angeles
         details: 45 min / $50
-        description: >+
-          Looking for astrological guidance but short on time? Our Cosmic Quick
-          Insights offer a speedy yet insightful glimpse into your astrological
-          influences. Perfect for when you need a quick cosmic consultation!
-
+        description: >
+          Looking for astrological guidance but short on time? Wanting to
+          explore our services but interesting in getting a taste before
+          committing? Our Cosmic Quick Insights offer a speedy yet insightful
+          glimpse into your astrological influences. Perfect for when you need a
+          quick consultation!
         features: []
         image:
           type: ImageBlock
