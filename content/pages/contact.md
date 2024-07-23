@@ -15,9 +15,6 @@ sections:
       *   **instagram:**
       [@thecosmicpolitan](https://instagram.com/thecosmicpolitan)
 
-
-      *   or fill out the form
-
     actions: []
     colors: bg-light-fg-dark
 slug: contact
