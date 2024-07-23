@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Where do you want to go?
+    subtitle: Where shall we journey?
     plans:
       - type: PricingPlan
         title: Basic Chart Analysis
