@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Kirat
+      text: ''
       color: text-dark
       styles:
         self:
