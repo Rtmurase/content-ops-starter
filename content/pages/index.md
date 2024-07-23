@@ -93,10 +93,16 @@ sections:
       - title: Tokyo
         tagline: ''
         subtitle: Basic Chart Analysis
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   Learn the basics of your birth chart
+
+
+          *   Understand your full potential and life path 
+
+
+          *   Come to terms with the common challenges in your life and how you
+          can grow from them
+
         image:
           url: /images/tokyoTrans.png
           altText: ''
