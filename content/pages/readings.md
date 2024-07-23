@@ -150,7 +150,7 @@ sections:
           the astrological forces at play. Whether you’re navigating a
           transition, seeking clarity on a situation, or planning for the
           future, this reading offers valuable insights that align with the
-          cosmic rhythm.
+          rhythm of the universe. 
         features: []
         image:
           type: ImageBlock
