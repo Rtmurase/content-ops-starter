@@ -13,8 +13,22 @@ sections:
     subtitle: >-
       Evolutionary astrology for understanding and architecting your life with
       the universe.
-    text: |
-      Hi, I'm a goofball and a boofus
+    text: >+
+      Here at TheCosmicPolitan we believe that you can bring more peace and
+      happiness into your life through becoming aware of your path in this
+      lifetime. The journey of life is undeniably a spiritual one. We are sent
+      hurdling through the universe with little to no understanding of how or
+      why we got here and we repeatedly spend our entire lives trying to form an
+      understanding for ourselves. We analyze the past and worry about the
+      future, several times unable to make peace with our circumstances. What if
+      there was a way to find acceptance through understanding? What if there
+      was a way for us to embrace our path and work with the universe to find
+      peace in our minds? Astrology provides a divine language for us to use so
+      that we can achieve this mission. While the world shifts and changes and
+      we are tossed into the darkness, we can still come to the understanding
+      that the path that we are on is the perfect path for us to be on, and that
+      it can always serve us a higher purpose if we choose. 
+
     actions: []
     colors: bg-neutral-fg-dark
     styles:
