@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: dgsd
+      text: Our Mission
       color: text-dark
       styles:
         self:
