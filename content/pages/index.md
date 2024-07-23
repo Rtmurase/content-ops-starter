@@ -143,11 +143,11 @@ sections:
         tagline: ''
         subtitle: Returning Client Reading
         text: |+
-          *   An analysis of the compatibility between you and your partner
+          *   For returning clients only
 
-          *   Insights into the strengths and challenges of your relationship
+          *   Insights into the current transits and how it affects your chart
 
-          *   Tips for improving communication and understanding
+          *   Discussions on how to grow and find peace in turbulent times
 
         image:
           type: ImageBlock
