@@ -5,7 +5,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Destinations
+      text: Cosmopolitans
       color: text-dark
       styles:
         self:
