@@ -6,13 +6,6 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
-        },
-        {
-            "type": "Social",
-            "altText": "Instagram link",
-            "url": "https://instagram.com/thecosmicpolitan",
-            "icon": "instagram",
-            "elementId": ""
         }
     ],
     "legalLinks": [],
