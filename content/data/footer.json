@@ -1,22 +1,5 @@
 {
     "text": "",
-    "primaryLinks": {
-        "title": "@TheCosmicPolitan",
-        "links": [
-            {
-                "type": "Link",
-                "label": "Contact",
-                "altText": "",
-                "url": "/contact",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "Email link",
