@@ -47,7 +47,7 @@ sections:
     items:
       - title: Paris
         tagline: ''
-        subtitle: Synergy Reading
+        subtitle: Synastry/Composite Reading
         text: |+
           *   An analysis of the compatibility between you and your partner
 
@@ -93,10 +93,16 @@ sections:
       - title: Tokyo
         tagline: ''
         subtitle: Basic Chart Analysis
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   Learn the basics of your birth chart
+
+
+          *   Understand your full potential and life path 
+
+
+          *   Come to terms with the common challenges in your life and how you
+          can grow from them
+
         image:
           url: /images/tokyoTrans.png
           altText: ''
@@ -137,11 +143,11 @@ sections:
         tagline: ''
         subtitle: Returning Client Reading
         text: |+
-          *   An analysis of the compatibility between you and your partner
+          *   For returning clients only
 
-          *   Insights into the strengths and challenges of your relationship
+          *   Insights into the current transits and how it affects your chart
 
-          *   Tips for improving communication and understanding
+          *   Discussions on how to grow and find peace in turbulent times
 
         image:
           type: ImageBlock
@@ -181,12 +187,13 @@ sections:
         title: Los Angeles
         tagline: ''
         subtitle: Promotional Reading
-        text: |+
-          *   An analysis of the compatibility between you and your partner
+        text: >+
+          New to astrology? Start here! Limited time promotional readings
+          available to celebrate our launch. If you're unsure about astrology or
+          wondering if its the right fit for you, you can book some time at a
+          low price to get a taste.
 
-          *   Insights into the strengths and challenges of your relationship
 
-          *   Tips for improving communication and understanding
 
         image:
           type: ImageBlock
@@ -226,12 +233,17 @@ sections:
         title: Dubai
         tagline: ''
         subtitle: Advanced Transit Reading
-        text: |+
-          *   An analysis of the compatibility between you and your partner
+        text: >+
+          *   A deep dive into an specific topics
 
-          *   Insights into the strengths and challenges of your relationship
 
-          *   Tips for improving communication and understanding
+          *   For clients who are looking to grow spiritually and heal their
+          trauma 
+
+
+          *   We practice advance techniques here for timing events,
+          understanding how life events may unfold, and look far into the future
+          to gauge the direction of the currents of life.
 
         image:
           type: ImageBlock
