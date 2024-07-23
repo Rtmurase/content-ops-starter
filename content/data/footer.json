@@ -1,6 +1,37 @@
 {
     "text": "",
-    "socialLinks": [],
+    "primaryLinks": {
+        "title": "@TheCosmicPolitan",
+        "links": [
+            {
+                "type": "Link",
+                "label": "Contact",
+                "altText": "",
+                "url": "/contact",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "socialLinks": [
+        {
+            "altText": "Email link",
+            "url": "/",
+            "icon": "mail",
+            "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://instagram.com/thecosmicpolitan",
+            "icon": "instagram",
+            "elementId": ""
+        }
+    ],
     "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
