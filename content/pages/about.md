@@ -51,7 +51,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/avatar6.svg
+      url: /images/Screenshot 2024-07-22 at 8.25.44 PM.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
