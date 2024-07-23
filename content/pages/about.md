@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Your travel guide and personal astrologer
+    subtitle: The cosmo
     text: |
       Hi, I'm a goofball and a boofus
     actions: []
