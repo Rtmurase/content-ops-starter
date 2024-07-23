@@ -11,7 +11,7 @@ sections:
           fontWeight: 400
       type: TitleBlock
     subtitle: Navigating life through the stars
-    text: "Welcome to\_**TheCosmicPolitan**, where the stars align to illuminate your path. Our mission is to offer insights that help you resonate with your true self and the universe. Dive into the depths of astrology and emerge with newfound clarity and peace\n"
+    text: "Welcome to\_**TheCosmicPolitan**, where our mission is to help you bring more peace into your life. Our astrology services are here to offer you insight into your life's journey and guidance at times of turbulence, change, or even peace. \n"
     colors: bg-light-fg-dark
     styles:
       self:
