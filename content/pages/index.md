@@ -233,12 +233,17 @@ sections:
         title: Dubai
         tagline: ''
         subtitle: Advanced Transit Reading
-        text: |+
-          *   An analysis of the compatibility between you and your partner
+        text: >+
+          *   A deep dive into an specific topics
 
-          *   Insights into the strengths and challenges of your relationship
 
-          *   Tips for improving communication and understanding
+          *   For clients who are looking to grow spiritually and heal their
+          trauma 
+
+
+          *   We practice advance techniques here for timing events,
+          understanding how life events may unfold, and look far into the future
+          to gauge the direction of the currents of life.
 
         image:
           type: ImageBlock
