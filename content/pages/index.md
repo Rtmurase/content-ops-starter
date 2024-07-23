@@ -11,7 +11,7 @@ sections:
           fontWeight: 400
       type: TitleBlock
     subtitle: Navigating life using the divinatory art of astrology
-    text: "Welcome to\_**TheCosmicPolitan**, where our mission is to help you bring more peace into your life. Our astrology services are here to offer you insight into your life's journey and guidance at times of turbulence, change, or even peace. \n"
+    text: "Welcome to\_**TheCosmicPolitan**, where our mission is to help you bring more peace into your life. Our astrology services are here to offer you insight into your life's journey and guidance at times of turbulence, change, or even peace. We believe that knowledge is power, and that with the spiritual understanding of your life you can unlock your highest potential for happiness.\n"
     colors: bg-light-fg-dark
     styles:
       self:
