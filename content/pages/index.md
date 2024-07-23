@@ -47,7 +47,7 @@ sections:
     items:
       - title: Paris
         tagline: ''
-        subtitle: Synastry Reading
+        subtitle: Synastry/Composite Reading
         text: |+
           *   An analysis of the compatibility between you and your partner
 
