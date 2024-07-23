@@ -10,9 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: >-
-      Evolutionary astrology for understanding and architecting your life with
-      the universe.
+    subtitle: A cosmopolite
     text: |
       Hi, I'm a goofball and a boofus
     actions: []
