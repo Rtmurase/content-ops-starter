@@ -5,12 +5,12 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Destinations
+      text: Cosmopolitans
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Where do you want to go?
+    subtitle: Where shall we journey?
     plans:
       - type: PricingPlan
         title: Basic Chart Analysis
@@ -112,11 +112,12 @@ sections:
         title: Promotional Reading
         price: Los Angeles
         details: 45 min / $50
-        description: >+
-          Looking for astrological guidance but short on time? Our Cosmic Quick
-          Insights offer a speedy yet insightful glimpse into your astrological
-          influences. Perfect for when you need a quick cosmic consultation!
-
+        description: >
+          Looking for astrological guidance but short on time? Wanting to
+          explore our services but interesting in getting a taste before
+          committing? Our Cosmic Quick Insights offer a speedy yet insightful
+          glimpse into your astrological influences. Perfect for when you need a
+          quick consultation!
         features: []
         image:
           type: ImageBlock
@@ -149,7 +150,7 @@ sections:
           the astrological forces at play. Whether you’re navigating a
           transition, seeking clarity on a situation, or planning for the
           future, this reading offers valuable insights that align with the
-          cosmic rhythm.
+          rhythm of the universe. 
         features: []
         image:
           type: ImageBlock
