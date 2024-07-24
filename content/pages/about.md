@@ -54,7 +54,7 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: ''
+        title: Kirat
         price: Kirat
         details: ''
         description: >
