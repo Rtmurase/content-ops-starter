@@ -130,7 +130,7 @@ function PricingPlan(props) {
                 >
                     {title && (
                         <TitleTag
-                            className="text-xl font-normal normal-case tracking-normal no-underline"
+                            className="text-3xl sm:text-5xl font-medium"
                             {...(fieldPath && { 'data-sb-field-path': '.title' })}
                         >
                             {title}
@@ -139,7 +139,7 @@ function PricingPlan(props) {
                     {(price || details) && (
                         <div className={classNames({ 'mt-6': title })}>
                             {price && (
-                                <div className="text-4xl sm:text-6xl font-medium" {...(fieldPath && { 'data-sb-field-path': '.price' })}>
+                                <div className="text-xl font-normal normal-case " {...(fieldPath && { 'data-sb-field-path': '.price' })}>
                                     {price}
                                 </div>
                             )}
