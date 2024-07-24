@@ -42,8 +42,14 @@ sections:
           - pb-3
           - pr-3
   - type: CarouselSection
-    title: null
-    subtitle: Take a journey with me
+    title:
+      type: TitleBlock
+      text: Take a journey with us
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
     items:
       - title: Paris
         tagline: ''
