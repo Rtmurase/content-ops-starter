@@ -13,8 +13,8 @@ sections:
     subtitle: Where shall we journey?
     plans:
       - type: PricingPlan
-        title: Basic Chart Analysis
-        price: Tokyo
+        title: Tokyo
+        price: Basic Chart Analysis
         details: 60 min / $100
         description: >
           A Basic Chart Analysis is a foundational reading in astrology that
@@ -45,8 +45,8 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Returning Client Reading
-        price: New York
+        title: New York
+        price: Returning Client Reading
         details: 45 min / $75
         description: >
           As a returning client, you’ve already taken the first steps on your
@@ -77,8 +77,8 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Synastry Reading
-        price: Paris
+        title: Paris
+        price: Synastry Reading
         details: 90 min / $150
         description: >
           Synastry readings are a fascinating astrological practice that
@@ -109,8 +109,8 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Promotional Reading
-        price: Los Angeles
+        title: Los Angeles
+        price: Promotional Reading
         details: 45 min / $50
         description: >
           Looking for astrological guidance but short on time? Wanting to
@@ -141,8 +141,8 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Advanced Transit Reading
-        price: Dubai
+        title: Dubai
+        price: Advanced Transit Reading
         details: 60 min / $100
         description: >
           An Advanced Transit Reading is ideal for those who are familiar with
