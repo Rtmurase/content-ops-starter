@@ -43,6 +43,7 @@ const components = {
     FeaturedPostsSection: dynamic(() => import('./sections/FeaturedPostsSection')),
     FormBlock: dynamic(() => import('./blocks/FormBlock')),
     GenericSection: dynamic(() => import('./sections/GenericSection')),
+    CustomSection: dynamic(() => import('./sections/CustomSection')),
     ImageBlock: dynamic(() => import('./blocks/ImageBlock')),
     ImageGallerySection: dynamic(() => import('./sections/ImageGallerySection')),
     PostFeedSection: dynamic(() => import('./sections/PostFeedSection')),

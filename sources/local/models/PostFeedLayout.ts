@@ -77,6 +77,7 @@ export const PostFeedLayout: Model = {
                     'FeaturedPeopleSection',
                     'FeaturedPostsSection',
                     'GenericSection',
+                    'CustomSection',
                     'ImageGallerySection',
                     'PricingSection',
                     'RecentPostsSection'
@@ -99,6 +100,7 @@ export const PostFeedLayout: Model = {
                     'FeaturedPeopleSection',
                     'FeaturedPostsSection',
                     'GenericSection',
+                    'CustomSection',
                     'ImageGallerySection',
                     'PricingSection',
                     'RecentPostsSection'

@@ -31,6 +31,17 @@
         },
         {
             "type": "Link",
+            "label": "Newsletter",
+            "altText": "",
+            "url": "/newsletter",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
             "label": "Contact",
             "altText": "",
             "url": "/contact",
