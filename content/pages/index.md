@@ -44,7 +44,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: Take a journey with me
+      text: Take a journey with us
       color: text-dark
       styles:
         self:
