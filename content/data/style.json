@@ -4,8 +4,8 @@
     "neutral": "#e4e9ee",
     "neutralAlt": "#c1c8a0",
     "primary": "#424c33",
-    "fontBody": "bebasNeue",
-    "fontHeadlines": "bebasNeue",
+    "fontBody": "notoSans",
+    "fontHeadlines": "staatliches",
     "h1": {
         "size": "6xl",
         "weight": "normal",
