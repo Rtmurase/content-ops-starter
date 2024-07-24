@@ -55,7 +55,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Kirat
-        price: Kirat
+        price: ''
         details: ''
         description: >
           Kirat has been learning traditional hellenistic astrology for ten
