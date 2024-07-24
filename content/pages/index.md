@@ -46,7 +46,7 @@ sections:
       type: TitleBlock
       text: This Is A Big Headline
       color: text-dark
-    subtitle: Take a journey with me
+    subtitle: ''
     items:
       - title: Paris
         tagline: ''
