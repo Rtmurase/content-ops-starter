@@ -45,6 +45,7 @@ export const PageLayout: Model = {
                     'FeaturedPeopleSection',
                     'FeaturedPostsSection',
                     'GenericSection',
+                    'CustomSection',
                     'ImageGallerySection',
                     'PricingSection',
                     'RecentPostsSection'

@@ -13,6 +13,7 @@ import { FeaturedPostsSection } from './FeaturedPostsSection';
 import { Footer } from './Footer';
 import { FormBlock } from './FormBlock';
 import { GenericSection } from './GenericSection';
+import { CustomSection } from './CustomSection';
 import { Header } from './Header';
 import { ImageBlock } from './ImageBlock';
 import { ImageGallerySection } from './ImageGallerySection';
@@ -59,6 +60,7 @@ export const allModels = {
     Footer,
     FormBlock,
     GenericSection,
+    CustomSection,
     Header,
     ImageBlock,
     ImageGallerySection,
