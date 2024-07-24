@@ -61,10 +61,10 @@ export default function Footer(props) {
                     {primaryLinks && <FooterLinksGroup {...primaryLinks} {...(enableAnnotations && { 'data-sb-field-path': 'primaryLinks' })} />}
                     {secondaryLinks && <FooterLinksGroup {...secondaryLinks} {...(enableAnnotations && { 'data-sb-field-path': 'secondaryLinks' })} />}
                     {<div>
-                        <h1 className="uppercase text-base tracking-wide" {...(props['data-sb-field-path'] && { 'data-sb-field-path': '.title' })}>
+                        <h1 className="text-base tracking-wide" {...(props['data-sb-field-path'] && { 'data-sb-field-path': '.title' })}>
                             {"Subscribe to our Newsletter"}
                         </h1>
-                        <h3 className="uppercase text-sm tracking-wide" {...(props['data-sb-field-path'] && { 'data-sb-field-path': '.title' })}>
+                        <h3 className="text-sm tracking-wide" {...(props['data-sb-field-path'] && { 'data-sb-field-path': '.title' })}>
                             {"For peaceful insights, energy updates, and good vibes"}
                         </h3>
                     </div>}
