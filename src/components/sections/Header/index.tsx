@@ -245,9 +245,9 @@ function SiteLogoLink({ title, logo, enableAnnotations }) {
         <Link href="/" className="flex items-center">
             {logo && <ImageBlock {...logo} {...(enableAnnotations && { 'data-sb-field-path': 'logo' })} />}
             {title && (
-                <span className="h4" {...(enableAnnotations && { 'data-sb-field-path': 'title' })}>
+                <h4 className="h4" {...(enableAnnotations && { 'data-sb-field-path': 'title' })}>
                     {title}
-                </span>
+                </h4>
             )}
         </Link>
     );
