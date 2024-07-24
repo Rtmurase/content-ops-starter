@@ -103,6 +103,14 @@ export const ThemeStyle: Model = {
                 {
                     label: 'Bebas Neue',
                     value: 'bebasNeue'
+                },
+                {
+                    label: 'Noto Sans',
+                    value: 'notoSans'
+                },
+                {
+                    label: 'Staatliches',
+                    value: 'staatliches'
                 }
             ],
             group: 'text-styles'
@@ -139,6 +147,14 @@ export const ThemeStyle: Model = {
                 {
                     label: 'Bebas Neue',
                     value: 'bebasNeue'
+                },
+                {
+                    label: 'Noto Sans',
+                    value: 'notoSans'
+                },
+                {
+                    label: 'Staatliches',
+                    value: 'staatliches'
                 }
             ],
             group: 'text-styles'

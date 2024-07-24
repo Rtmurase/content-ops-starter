@@ -17,7 +17,7 @@
             "url": "/readings",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "primary",
             "type": "Link"
         },
         {
@@ -26,8 +26,19 @@
             "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "primary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Newsletter",
+            "altText": "",
+            "url": "/newsletter",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         },
         {
             "type": "Link",

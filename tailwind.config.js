@@ -27,8 +27,9 @@ module.exports = {
                 serif: ['Roboto Slab', 'serif'],
                 alice: ['Alice', 'sans-serif'],
                 lora: ['Lora', 'sans-serif'],
-                crushed: ['Crushed', 'sans-serif'],
-                bebasNeue: ['Bebas Neue', 'sans-serif']
+                bebasNeue: ['Bebas Neue', 'sans-serif'],
+                notoSans: ['Noto Sans', 'sans-serif'],
+                staatliches: ['Staatliches', 'sans-serif']
             },
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'
