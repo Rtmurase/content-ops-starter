@@ -44,7 +44,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Take a journey with me
       color: text-dark
     subtitle: ''
     items:
