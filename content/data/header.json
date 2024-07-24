@@ -54,7 +54,7 @@
             "label": ""
         }
     ],
-    "variant": "logo-left-primary-nav-left",
+    "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
     "title": "TheCosmicPolitan"
