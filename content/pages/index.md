@@ -46,6 +46,9 @@ sections:
       type: TitleBlock
       text: Take a journey with me
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     items:
       - title: Paris
