@@ -58,7 +58,7 @@ sections:
         price: ''
         details: ''
         description: >
-          Kirat has been learning traditional hellenistic astrology for ten
+          **Kirat** has been learning traditional hellenistic astrology for ten
           years and practicing for six. She has taken Adam Elenbass's first year
           astrology course to bridge gaps in her self-taught knowledge and
           continues to devote her time to learning advanced techniques to
