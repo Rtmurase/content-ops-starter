@@ -65,7 +65,7 @@ export default function Footer(props) {
                             {"Subscribe to our Newsletter"}
                         </h1>
                         <h3 className="uppercase text-sm tracking-wide" {...(props['data-sb-field-path'] && { 'data-sb-field-path': '.title' })}>
-                            {"New offerings, business and life updates"}
+                            {"For peaceful insights, energy updates, and good vibes"}
                         </h3>
                     </div>}
                     {<div>
