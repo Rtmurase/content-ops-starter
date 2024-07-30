@@ -161,7 +161,7 @@ sections:
           - type: Button
             label: Book
             altText: ''
-            url: 'https://calendly.com/thecosmicpolitan/promotional-reading'
+            url: 'https://zcal.co/thecosmicpolitan/promotional-reading'
             showIcon: false
             icon: arrowRight
             iconPosition: right
