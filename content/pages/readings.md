@@ -79,7 +79,7 @@ sections:
           - type: Button
             label: Book
             altText: ''
-            url: 'https://calendly.com/thecosmicpolitan/returning-client-reading'
+            url: 'https://zcal.co/thecosmicpolitan/returning-client'
             showIcon: false
             icon: arrowRight
             iconPosition: right
