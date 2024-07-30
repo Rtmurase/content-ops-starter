@@ -201,7 +201,7 @@ sections:
                 - pb-3
         actions:
           - type: Button
-            label: Get started
+            label: Book
             altText: ''
             url: 'https://calendly.com/thecosmicpolitan/advanced-transit-reading'
             showIcon: false
