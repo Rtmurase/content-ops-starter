@@ -203,7 +203,7 @@ sections:
           - type: Button
             label: Book
             altText: ''
-            url: 'https://calendly.com/thecosmicpolitan/advanced-transit-reading'
+            url: 'https://zcal.co/thecosmicpolitan/advanced-transit'
             showIcon: false
             icon: arrowRight
             iconPosition: right
