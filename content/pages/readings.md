@@ -159,7 +159,7 @@ sections:
                 - pb-3
         actions:
           - type: Button
-            label: Get started
+            label: Book
             altText: ''
             url: 'https://calendly.com/thecosmicpolitan/promotional-reading'
             showIcon: false
