@@ -120,7 +120,7 @@ sections:
           - type: Button
             label: Book
             altText: ''
-            url: 'https://calendly.com/thecosmicpolitan/synastry-reading'
+            url: 'https://zcal.co/thecosmicpolitan/synastry-reading'
             showIcon: false
             icon: arrowRight
             iconPosition: right
