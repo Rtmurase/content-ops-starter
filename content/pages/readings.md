@@ -34,7 +34,16 @@ sections:
                 - pt-3
                 - pr-3
                 - pb-3
-        actions: []
+        actions:
+          - type: Button
+            label: Book
+            altText: ''
+            url: 'https://calendly.com/thecosmicpolitan/basic-chart-analysis'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -66,7 +75,16 @@ sections:
                 - pl-3
                 - pb-3
                 - pr-3
-        actions: []
+        actions:
+          - type: Button
+            label: Book
+            altText: ''
+            url: 'https://calendly.com/thecosmicpolitan/returning-client-reading'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -98,7 +116,16 @@ sections:
                 - pl-3
                 - pb-3
                 - pr-3
-        actions: []
+        actions:
+          - type: Button
+            label: Book
+            altText: ''
+            url: 'https://calendly.com/thecosmicpolitan/synastry-reading'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -130,7 +157,16 @@ sections:
                 - pt-3
                 - pr-3
                 - pb-3
-        actions: []
+        actions:
+          - type: Button
+            label: Book
+            altText: ''
+            url: 'https://calendly.com/thecosmicpolitan/promotional-reading'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -163,7 +199,16 @@ sections:
                 - pt-3
                 - pr-3
                 - pb-3
-        actions: []
+        actions:
+          - type: Button
+            label: Book
+            altText: ''
+            url: 'https://calendly.com/thecosmicpolitan/advanced-transit-reading'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
