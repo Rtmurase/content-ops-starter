@@ -199,7 +199,16 @@ sections:
                 - pt-3
                 - pr-3
                 - pb-3
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://calendly.com/thecosmicpolitan/advanced-transit-reading'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
