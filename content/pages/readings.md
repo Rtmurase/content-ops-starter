@@ -38,7 +38,7 @@ sections:
           - type: Button
             label: Book
             altText: ''
-            url: 'https://calendly.com/thecosmicpolitan/basic-chart-analysis'
+            url: 'https://zcal.co/thecosmicpolitan/basic-chart-analysis'
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -79,7 +79,7 @@ sections:
           - type: Button
             label: Book
             altText: ''
-            url: 'https://calendly.com/thecosmicpolitan/returning-client-reading'
+            url: 'https://zcal.co/thecosmicpolitan/returning-client'
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -120,7 +120,7 @@ sections:
           - type: Button
             label: Book
             altText: ''
-            url: 'https://calendly.com/thecosmicpolitan/synastry-reading'
+            url: 'https://zcal.co/thecosmicpolitan/synastry-reading'
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -161,7 +161,7 @@ sections:
           - type: Button
             label: Book
             altText: ''
-            url: 'https://calendly.com/thecosmicpolitan/promotional-reading'
+            url: 'https://zcal.co/thecosmicpolitan/promotional-reading'
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -203,7 +203,7 @@ sections:
           - type: Button
             label: Book
             altText: ''
-            url: 'https://calendly.com/thecosmicpolitan/advanced-transit-reading'
+            url: 'https://zcal.co/thecosmicpolitan/advanced-transit'
             showIcon: false
             icon: arrowRight
             iconPosition: right
