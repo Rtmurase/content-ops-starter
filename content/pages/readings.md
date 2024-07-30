@@ -38,7 +38,7 @@ sections:
           - type: Button
             label: Book
             altText: ''
-            url: 'https://calendly.com/thecosmicpolitan/promotional-reading'
+            url: 'https://calendly.com/thecosmicpolitan/basic-chart-analysis'
             showIcon: false
             icon: arrowRight
             iconPosition: right
